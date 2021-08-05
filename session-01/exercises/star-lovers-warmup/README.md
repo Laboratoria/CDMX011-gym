@@ -1,4 +1,4 @@
-# Star Lovers Challenge
+# Star Lovers Warmup
 
 [https://codesandbox.io/s/star-lovers-warmup-cgdmo?file=/README.md](https://codesandbox.io/s/star-lovers-warmup-cgdmo?file=/README.md)
 
