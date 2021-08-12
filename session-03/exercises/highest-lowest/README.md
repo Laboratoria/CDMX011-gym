@@ -1,5 +1,7 @@
 # Highest and Lowest
 
+[https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)
+
 Crear una función que dado un string de números separados por espacios retorne
 el número mayor y menor.
 
