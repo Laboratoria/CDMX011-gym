@@ -1,4 +1,4 @@
-# Sesión 6 - 01/09/2021
+# Sesión 6 - 02/09/2021
 
 ## Ejercicios
 
