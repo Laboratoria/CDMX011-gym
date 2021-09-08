@@ -13,11 +13,9 @@ Salida: [["age", 24], ["name", "Jeremy"], ["role", "Software Engineer"]]
 
 > __Importante__ ❗
 >
-> -  La salida debe ser ordenada alfabéticamente
-
+> - La salida debe ser ordenada alfabéticamente
 
 Buena suerte!
-
 
 ## Objetivos de aprendizaje (OAs)
 

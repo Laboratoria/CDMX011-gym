@@ -95,3 +95,7 @@
     - [X] Math.min (x, y);
     - [ ] Math.min (xy);
     - [ ] min(xy);
+
+## Hacking en vivo
+
+[![Hacking GYM (Live) Sesión 6 - 02/09/2021 by Raulingg](http://i3.ytimg.com/vi/vA4eNL4jxJ0/hqdefault.jpg)](https://youtu.be/vA4eNL4jxJ0)
