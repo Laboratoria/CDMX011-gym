@@ -51,10 +51,10 @@ Si por ejemplo, ningún usuario esta online la salida debería lucir como sigue:
 }
 ```
 
-username sera siempre un string, status sera siempre ya sea `online` o `offline`
+`username` sera siempre un string, status sera siempre ya sea `online` o `offline`
 y `lastActivity` sera siempre un numero >= 0.
 
-Finalmente, si no tienes ningún amigo in tu app de chat, el input sera un arreglo
+Finalmente, si no tienes ningún amigo en tu app de chat, el input sera un arreglo
 vació `[]`. En este caso deberías retornar un objeto vació `{}`
 
 ## Objetivos de aprendizaje (OAs)
