@@ -4,9 +4,9 @@
 
 | Ejercicio                                                        | Complejidad                    | Etiquetas                    | OAs                                                                               |
 | ---------------------------------------------------------------- | ------------------------------ | ---------------------------- | --------------------------------------------------------------------------------- |
-| [**Counting sheep**](counting-sheep/README.md) | :suspect: **Warm-up** | `arrays` | <ul><li> Métodos de arreglo </li></ul>  |
-| [**Create Phone Number**](create-phone-number/README.md) | :rage1: **Challenge** | `arrays`, `strings` | <ul><li>Manipulación de strings</li><li>Métodos de arreglos</li></ul>  |
-| [**Roman to Integer**](roman-to-integer/README.md) | :godmode: **Hacker Edition** | `objects` | <ul><li>Objetos (key, value)</li></ul>  |
+| [**Counting sheep**](exercises/counting-sheep/README.md) | :suspect: **Warm-up** | `arrays` | <ul><li> Métodos de arreglo </li></ul>  |
+| [**Create Phone Number**](exercises/create-phone-number/README.md) | :rage1: **Challenge** | `arrays`, `strings` | <ul><li>Manipulación de strings</li><li>Métodos de arreglos</li></ul>  |
+| [**Roman to Integer**](exercises/roman-to-integer/README.md) | :godmode: **Hacker Edition** | `objects` | <ul><li>Objetos (key, value)</li></ul>  |
 
 ## Kahoot
 
