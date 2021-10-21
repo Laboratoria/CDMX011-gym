@@ -205,3 +205,7 @@
     - document, parent, start ❌
 
     __OAs__: [Propagación de eventos](https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/)
+
+## Hacking en vivo
+
+[![Hacking (live) session 11 by Viky](https://i3.ytimg.com/vi/3Zz7GfTdVPI/hqdefault.jpg)](https://www.youtube.com/watch?v=3Zz7GfTdVPI)
