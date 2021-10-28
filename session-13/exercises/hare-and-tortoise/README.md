@@ -1,4 +1,4 @@
-# The Race Between Hare and Tortoise :checkered_flag: :rabbit: :turtle
+# The Race Between Hare and Tortoise :checkered_flag: :rabbit: :turtle:
 
 [https://www.codewars.com/kata/57c398c0210f3e6f150001fc/train/javascript](https://www.codewars.com/kata/57c398c0210f3e6f150001fc/train/javascript)
 
