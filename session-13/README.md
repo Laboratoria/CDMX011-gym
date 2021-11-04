@@ -111,3 +111,7 @@
     - throw Error no esta optimizado ❌
 
     __OAs__: [throw](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/throw)
+
+## Hacking en vivo
+
+[![Hacking (live) session 11 by Viky](https://i3.ytimg.com/vi/cnWYi31ETQo/hqdefault.jpg)](https://www.youtube.com/watch?v=cnWYi31ETQo)
