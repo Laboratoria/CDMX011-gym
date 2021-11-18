@@ -31,3 +31,5 @@
 - ### [Sesión 13](./session-13/README.md) 🎃
 
 - ### [Sesión 14](./session-14/README.md)
+
+- ### [Sesión 16](./session-16/README.md)
