@@ -11,3 +11,7 @@
 ## Kahoot
 
 [https://create.kahoot.it/details/ba20e17c-695f-4262-b857-19163eeac05f](https://create.kahoot.it/details/ba20e17c-695f-4262-b857-19163eeac05f)
+
+## Hacking en vivo
+
+[![Hacking (Live) sesión 14 -  04/11/2021 by Alma](https://i3.ytimg.com/vi/zlVngBmcrWU/hqdefault.jpg)](https://www.youtube.com/watch?v=zlVngBmcrWU)
