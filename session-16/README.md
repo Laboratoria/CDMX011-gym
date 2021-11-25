@@ -86,3 +86,7 @@ __Requisitos__
 
 * Solo usar `if` una sola vez
 * No puedes usar `else`, `else if` o ternary
+
+## Hacking en vivo
+
+[![Hacking (Live) sesión 16 -  18/11/2021 by Nohely](https://i3.ytimg.com/vi/1d6ISoJeRBY/hqdefault.jpg)](https://www.youtube.com/watch?v=1d6ISoJeRBY)
