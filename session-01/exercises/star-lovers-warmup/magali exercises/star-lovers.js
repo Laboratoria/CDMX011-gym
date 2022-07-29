@@ -1,3 +1,3 @@
 const printStar = (num) => {
-    return (new Array(num + 1).join('*'));
+    return (Array(num).fill('*').join(''));
     };
